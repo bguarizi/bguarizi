@@ -2,7 +2,7 @@
 - ✨ Estudante de Engenharia da Computação
 - 👀 Atuo profissionalmente em 2 áreas:
  - > Ethical Hacking (como membro do Red Team)
- - > Programadora FrontEnd
+ - > Programadora Frontend
 - 🌱 Venho me desenvolvendo em cibersegurança e desenvolvimento Backend
 - 📫 Também busco novos aprendizados na área de robótica e semelhantes
 
