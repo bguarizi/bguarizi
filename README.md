@@ -4,7 +4,7 @@
  - > Ethical Hacking (como membro do Red Team)
  - > Programadora Frontend
 - 🌱 Venho me desenvolvendo em cibersegurança e desenvolvimento Backend
-- 📫 Também busco novos aprendizados na área de robótica e semelhantes
+- 📫 Também busco novos aprendizados na área de robótica e eletrônica
 
 <!---
 bguarizi/bguarizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
