@@ -1,8 +1,9 @@
 - 👋 Olá, sou Bianca Guarizi
 - ✨ Estudante de Engenharia da Computação
-- 👀 Atuo profissionalmente em 2 áreas:
- - > Ethical Hacking (como membro do Red Team)
- - > Programadora Frontend
+- 👀 Possuo experiência em algumas áreas como:
+ - > Red Team
+ - > Compliance (LGPD | ISO)
+ - > Programação Frontend
 - 🌱 Venho me desenvolvendo em cibersegurança e desenvolvimento Backend
 - 📫 Também busco novos aprendizados na área de robótica e eletrônica
 
