@@ -7,6 +7,8 @@
 - 🌱 Venho me desenvolvendo em cibersegurança e desenvolvimento Backend
 - 📫 Também busco novos aprendizados na área de robótica e eletrônica
 
+- Me encontre aqui: www.linkedin.com/in/bianca-guarizi
+
 <!---
 bguarizi/bguarizi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
