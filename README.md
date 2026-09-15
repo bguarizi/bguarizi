@@ -1,7 +1,7 @@
 - 👋 Olá, sou Bianca Guarizi
 - ✨ Estudante de Engenharia da Computação
 - 👀 Possuo experiência em áreas como:
- - > Programação Fullstack
+ - > Programação Full Stack
  - > Red Team
  - > Compliance (LGPD | ISO)
  - > Gestão de Vulnerabilidades
