@@ -4,9 +4,9 @@
  - > Programação Fullstack
  - > Red Team
  - > Compliance (LGPD | ISO)
-   > Gestão de Vulnerabilidades
+ - > Gestão de Vulnerabilidades
 - 🌱 Realizo projetos de desenvolvimento com React e FastAPI
-- 📫 Atuo de forma profissional com Segurança da Informação, com foco em Gestão de Vulnerabilidades, Treinamentos de Desenvolvmento Seguro e elaboração de Normas e Políticas de Segurança
+- 📫 Atuo de forma profissional com Segurança da Informação, com foco em Gestão de Vulnerabilidades
 
 - Me encontre aqui: www.linkedin.com/in/bianca-guarizi
 
