@@ -1,11 +1,12 @@
 - 👋 Olá, sou Bianca Guarizi
 - ✨ Estudante de Engenharia da Computação
-- 👀 Possuo experiência em algumas áreas como:
+- 👀 Possuo experiência em áreas como:
+ - > Programação Fullstack
  - > Red Team
  - > Compliance (LGPD | ISO)
- - > Programação Frontend
-- 🌱 Venho me desenvolvendo em cibersegurança e desenvolvimento Backend
-- 📫 Também busco novos aprendizados na área de robótica e eletrônica
+   > Gestão de Vulnerabilidades
+- 🌱 Realizo projetos de desenvolvimento com React e FastAPI
+- 📫 Atuo de forma profissional com Segurança da Informação, com foco em Gestão de Vulnerabilidades, Treinamentos de Desenvolvmento Seguro e elaboração de Normas e Políticas de Segurança
 
 - Me encontre aqui: www.linkedin.com/in/bianca-guarizi
 
